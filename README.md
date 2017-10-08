@@ -1,6 +1,16 @@
-# Video-downloader-mark 1
+# Video-downloader v1.1
 
-a simple video downloader using youtube_dl Library
+## About
+
+This file allows the user to download videos off of the web.
+
+as of version 1 the user is able to download highquality videos as a playlist or single file as well as audio files from the supported 
+
+websites given here http://rg3.github.io/youtube-dl/supportedsites.html are supported.
+
+More features will be added in the future iterations of the project.
+a simple video downloader using youtube-dl Library, a starter script for making use 
+of youtube-dl.
 
 ## Requirements
 
@@ -13,29 +23,19 @@ a simple video downloader using youtube_dl Library
 
 ## Installation
 
-##### FFmpeg
+clone this repo and run the vid.py script!
+assuming you already have the other requirements.
+
+#### FFmpeg
 
 Follow this wiki-How tutorial
 
 http://www.wikihow.com/Install-FFmpeg-on-Windows
 
 
-##### PIP
+#### PIP
 
-Exstensive  information on how to set up virtual env and pip
+Extensive information on how to set up virtual env and pip.
 
 https://www.dabapps.com/blog/introduction-to-pip-and-virtualenv-python/
 
-
-
-## How To
-
-This file allows the user to download videos off the web.
-
-as of mark 1 the user is able to download highquality videos as a playlist or single file as well as audio files from the supported 
-
-websites given here http://rg3.github.io/youtube-dl/supportedsites.html.
-
-Note: Mark-1 is currently only tested on youtube, the support on the aforementioned sites may or may not exist. 
-
-More features will be added in the future iterations of the project.
